@@ -1,9 +1,9 @@
 <h1 align="center">Hi their, I'm Dakshitha Thiriveedhi</h1>
 <h3 align="center">A Passionate Programmer</h3>
 
-- 🔭 I’m currently working on **Web Development & Impactful Applications**
+- 🔭 I’m currently working on Web Development & Impactful Applications
 
-- 🌱 I’m currently learning **Data Structures, Algorithms, Full Stack Development, and AI tools like Prompt Engineering 
+- 🌱 I’m currently learning Data Structures, Algorithms, Full Stack Development, and AI tools like Prompt Engineering 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
